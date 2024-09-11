@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://halsonsan.github.io/sitemap.html.gz
+Sitemap: https://halsonsan.github.io/app/sitemap.html.gz
+Sitemap: https://halsonsan.github.io/assets/sitemap.html.gz
+Sitemap: https://halsonsan.github.io/css/sitemap.html.gz
+Sitemap: https://halsonsan.github.io/includes/sitemap.html.gz
+Sitemap: https://halsonsan.github.io/item/sitemap.html.gz
+Sitemap: https://halsonsan.github.io/src/sitemap.html.gz
